@@ -1,0 +1,8 @@
+    1  ls -a
+    2  ls
+    3  ls -R
+    4  cd unix
+    5  ls
+    6  wc exo1
+    7  wc -l exo1
+    8  history >>exo2
